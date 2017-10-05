@@ -1,0 +1,47 @@
+<!--
+CIT 110
+M4HW2 Java House Menu Page
+Eihab Ghanim
+10/5/2017
+-->
+<html>
+<title>Menu -- Java House</title>
+<body>
+
+<h1>Coffee and Sandwiches at Java House</h1>
+<a href="https://www.menu.html"><b>Navigation</b></a>
+<main>Relax at the Java House</main>
+<p><b>Located in historic downtown Fayetteville, Java House has been open since 2007.<b></p>
+<h2> Menu</h2>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>- 	Regular house blend (Arabica or Robusta), decaf, or our flavor of the day!</dd>
+  <dt>Cappuccino</dt>
+  <dd>- Espresso with steamed milk. Strong yet subtle.
+	Single $3.99 Double $4.99
+</dd>
+  <dt>Iced Coffee</dt>
+  <dd>- Our house blend served with ice and milk, perfect for a hot day.
+	$2.99
+</dd>
+  <dt>Bagel or Muffin</dt>
+  <dd>- From our bakery assortment.
+	$1.49
+</dd>
+<dt>Sandwiches</dt>
+<dd>Your choice of ham, turkey, or sun-dried tomato, on white or wheat. Or try our new hot panini sandwiches!
+	Regular $3.99 Panini $5.49</dd>
+
+</dl>
+<p>Coffee blends change monthly. We always carry at least one Arabica blend and one Robusta blend. Please call for the latest information.</p>
+<div>Java House
+323 Hay Street
+Fayetteville, NC 28301
+(910) 555-7890
+Open 8am-10pm
+</div>
+<footer>© 2017 Java House Inc</footer>
+<footer>ghanime5550@gmail.ftcc.edu</footer>
+
+
