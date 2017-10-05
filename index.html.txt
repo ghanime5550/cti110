@@ -1,0 +1,30 @@
+<!--
+CIT 110
+M4HW1 Java House Home Page
+Eihab Ghanim
+10/3/2017
+-->
+<html>
+<title>Java House Coffee Shop</title>
+<body>
+
+<h1>Moka Coffee</h1>
+<a href="https://www.menu.html"><b>Navigation</b></a>
+<main>Relax at the Java House</main>
+<p><b>Located in historic downtown Fayetteville, Java House has been open since 2007.<b></p>
+<ul>
+<li>Specialty coffee from around the world</li>
+<li>Muffins, bagels, and sandwiches</li>
+<li>Live music</li>
+<li>Open Mic Thursday</li>
+</ul>
+<div>Java House
+323 Hay Street
+Fayetteville, NC 28301
+(910) 555-7890
+Open 8am-10pm
+</div>
+<footer>© 2017 Java House Inc</footer>
+<footer>ghanime5550@gmail.ftcc.edu</footer>
+
+
